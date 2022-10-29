@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yurimansani
+- 👀 I’m interested in PHP, JS, Python
+- 🌱 I’m currently learning distribuite systems
+- 💞️ I’m looking to collaborate on PHP projects
+- 📫 Reach me on my email: yurimv9@gmail.com or my facebook [yurimansani](https://www.facebook.com/yurimansani) (is easier to respond)

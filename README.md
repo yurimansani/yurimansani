@@ -5,4 +5,5 @@
 - 📫 Reach me on my email: yurimv9@gmail.com or my facebook [yurimansani](https://www.facebook.com/yurimansani) (is easier to respond)
 - Checkout my [Gist](https://gist.github.com/yurimansani) some times i publish something
 
-- <a href="https://app.daily.dev/WorkOfLordOfWorld"><img src="https://api.daily.dev/devcards/84990df870514976832fa4beb3b5b0fe.png?r=gw1" width="200" alt="Work of Yuri's Dev Card"/></a>
+  
+<a href="https://app.daily.dev/lordofcode"><img src="https://api.daily.dev/devcards/8b4b465154bb40239bc4036f5b3eb94a.png?r=vfm" width="200" alt="Yuri's Dev Card"/></a>
